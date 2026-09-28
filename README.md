@@ -27,3 +27,4 @@ I enjoy researching how systems work, identifying security issues, and building 
 ## Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-wayang1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wayang1337)
+[![YouTube](https://img.shields.io/badge/YouTube-Wayang1337-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Wayang1337)
