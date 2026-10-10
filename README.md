@@ -23,7 +23,6 @@ I enjoy researching how systems work, identifying security issues, and building 
 ---
 
 > Research. Understand. Build. <br>
-![Profile Views](https://komarev.com/ghpvc/?username=Wayang1337&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## Connect
 
